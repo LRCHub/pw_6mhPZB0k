@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Call of Silence",
+  "base_artist": "haru",
+  "createdAt": "2025-12-01T14:41:49.691700Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Call of Silence",
+      "artist": "澤野弘之",
+      "has_synced": true,
+      "path": "select/01_Call_of_Silence_澤野弘之.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Call of Silence",
+      "artist": "Gemie",
+      "has_synced": true,
+      "path": "select/02_Call_of_Silence_Gemie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Call of Silence",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/03_Call_of_Silence_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Call Of Silence",
+      "artist": "Hiroyuki Sawano = 澤野弘之",
+      "has_synced": true,
+      "path": "select/04_Call_Of_Silence_Hiroyuki_Sawano_=_澤野弘之.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Call of Silence",
+      "artist": "Hiroyuki Sawano, Vocals: Gemie",
+      "has_synced": true,
+      "path": "select/05_Call_of_Silence_Hiroyuki_Sawano,_Vocals__Gemie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Call of Silence (from \"Attack on Titan\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/06_Call_of_Silence_(from__Attack_on_Titan_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Call of Silence - from \"Attack on Titan\"",
+      "artist": "Sati Akura feat. B-Lion",
+      "has_synced": true,
+      "path": "select/07_Call_of_Silence_-_from__Attack_on_Titan_Sati_Akura_feat._B-Lion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Call of Silence (from \"Attack on Titan\")",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/08_Call_of_Silence_(from__Attack_on_Titan_)_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Call of Silence",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/09_Call_of_Silence_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Call of Silence",
+      "artist": "Gemie",
+      "has_synced": true,
+      "path": "select/10_Call_of_Silence_Gemie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Call of Silence",
+      "artist": "澤野弘之",
+      "has_synced": true,
+      "path": "select/11_Call_of_Silence_澤野弘之.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Call of Silence",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/12_Call_of_Silence_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Call of Silence",
+      "artist": "Sawano Hiroyuki  , Gemie",
+      "has_synced": true,
+      "path": "select/13_Call_of_Silence_Sawano_Hiroyuki_,_Gemie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Call of Silence",
+      "artist": "Gemie",
+      "has_synced": true,
+      "path": "select/14_Call_of_Silence_Gemie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Call Your Name x Call of Silence (feat. Sorah) [Cover]",
+      "artist": "Samuel Kim",
+      "has_synced": false,
+      "path": "select/15_Call_Your_Name_x_Call_of_Silence_(feat._Sorah)_[Cover]_Samuel_Kim.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Call of Silence",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_01_Call_of_Silence_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Call of Silence",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_02_Call_of_Silence_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Call Of Silence",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_03_Call_Of_Silence_澤野弘之.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Call of Silence",
+      "artist": "澤野弘之",
+      "has_synced": false,
+      "path": "select/pl_04_Call_of_Silence_澤野弘之.txt"
+    }
+  ]
+}
